@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Seite-1" id="siwKNiU7ttOzvHa88uka">
+    <mxGraphModel dx="1880" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="123.76" width="760" height="356.24" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-1" target="lPQXOrkfYUFeKWjBTjAk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-1" target="S6YbXWEuJ813vrSjEnfv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-1" target="lPQXOrkfYUFeKWjBTjAk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-1" value="&lt;b&gt;Road Network&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-4" target="lPQXOrkfYUFeKWjBTjAk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-4" value="R34_count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="600" y="143.76" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-5" target="lPQXOrkfYUFeKWjBTjAk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-5" value="R34_USA_SSHS_sum" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="600" y="260" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-6" target="lPQXOrkfYUFeKWjBTjAk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-6" value="R64_count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-7" target="lPQXOrkfYUFeKWjBTjAk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-7" value="R64_USA_SSHS_sum" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="600" y="320" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-15" target="S6YbXWEuJ813vrSjEnfv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-15" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;What was the average distance between the center of the TC and the road segment?&lt;/font&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#e5ecf5, #1d293b);strokeColor=#6c8ebf;fillStyle=auto;gradientColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="365" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-16" target="lPQXOrkfYUFeKWjBTjAk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPQXOrkfYUFeKWjBTjAk-16" target="lPQXOrkfYUFeKWjBTjAk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-16" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;How intense were the TC&#39;s that affected the road s&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;egment?&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#e5ecf5, #1d293b);strokeColor=#6c8ebf;fillStyle=auto;gradientColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="252.19" width="170" height="55.62" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-30" value="&lt;b&gt;Centrality Score&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(CS)&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="800" y="226.87" width="120" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="lPQXOrkfYUFeKWjBTjAk-37" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px; line-height: 130%;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;USA_SSHS&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: Saffir-Simpson Hurricane Scale&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px; line-height: 130%;&quot;&gt;&lt;b&gt;R34&lt;/b&gt;: 34 kt (= 63 km/h) wind radii maximum extent | &lt;b&gt;R64&lt;/b&gt;: 64 kt (= 118 km/h) wind radii maximum extent&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="435" width="710" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S6YbXWEuJ813vrSjEnfv-1" target="lPQXOrkfYUFeKWjBTjAk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-1" value="R34_mean_distance_m" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="380" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S6YbXWEuJ813vrSjEnfv-2" target="lPQXOrkfYUFeKWjBTjAk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S6YbXWEuJ813vrSjEnfv-2" target="lPQXOrkfYUFeKWjBTjAk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-2" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;How many TC&#39;s affected the road segment?&lt;/font&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#e5ecf5, #1d293b);strokeColor=#6c8ebf;fillStyle=auto;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="136.26999999999998" width="170" height="54.98" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S6YbXWEuJ813vrSjEnfv-3" target="lPQXOrkfYUFeKWjBTjAk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S6YbXWEuJ813vrSjEnfv-3" target="S6YbXWEuJ813vrSjEnfv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6YbXWEuJ813vrSjEnfv-3" value="&lt;b&gt;Storm Tracks&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

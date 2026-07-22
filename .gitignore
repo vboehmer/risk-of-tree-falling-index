@@ -1,0 +1,56 @@
+# macOS
+.DS_Store
+
+# AI assistant config (not user-facing)
+CLAUDE.md
+style.md
+
+# R
+.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# R checkpoint / intermediate files
+checkpoint_*.rds
+distance_checkpoint.rds
+*.rds
+
+# QGIS cache
+rosm.cache/
+
+# Large data files (regenerate via Scripts or download via data/README.md)
+data/*.gpkg
+data/*.tif
+data/*.tif.aux.xml
+data/*.shp
+data/*.shx
+data/*.prj
+data/*.dbf
+data/Output/*.gpkg
+
+# Temporary / test files
+data/test.gpkg
+data/*.zip
+
+# Zip archives
+*.zip
+
+# Literature (copyrighted — reference list in README)
+Literature/
+
+# Large reference data (download separately)
+psdi-terraclimate-2020-2024.xlsx
+IBTrACS_v04r01_column_documentation.pdf
+Master_thesis_proposal.pdf
+Masterthesis_Boehmer/
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+processed_chunks.pkl
+
+# QGIS project user settings
+*.qgz~lock

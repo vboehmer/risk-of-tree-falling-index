@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Risk of Tree Falling Index (RTFI) for Madagascar"
+message: "If you use this software, please cite the thesis below."
+type: software
+authors:
+  - family-names: Boehmer
+    given-names: Valentin
+    orcid: ""
+license: MIT
+repository-code: ""
+date-released: "2026"
+preferred-citation:
+  type: thesis
+  title: "Risk of Tree Falling Index for Madagascar's road network during tropical cyclones"
+  author:
+    - family-names: Boehmer
+      given-names: Valentin
+  year: 2026
+  institution: "Heidelberg University"
