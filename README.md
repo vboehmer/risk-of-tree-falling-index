@@ -4,10 +4,6 @@ A composite spatial index that estimates the risk of trees falling onto Madagasc
 
 This repository contains all processing scripts, output figures, and the thesis document.
 
-## Study Area
-
-Madagascar. The analysis covers all classified roads (primary, secondary, tertiary, plus ferries, bridges, and fords) obtained from OpenStreetMap via the ohsome API.
-
 ## Methodology
 
 The RTFI is computed as the geometric mean of three normalised scores assigned to each 100-m road segment:
@@ -89,11 +85,11 @@ All input indicators are normalised to [0, 1] before combination. A road segment
 | Road network | OpenStreetMap via [ohsome API](https://docs.ohsome.org/ohsome-api/) |
 | Warehouse locations | CRM Madagascar |
 | Cyclone tracks | [IBTrACS](https://www.ncei.noaa.gov/products/international-best-track-archive) v04r01 |
-| Canopy height (10 m) | [ETH Global Canopy Height 2020](https://doi.org/10.1038/s41586-023-06787-x) |
-| Canopy height (1 m) | [Meta / Open Buildings](https://dataFORDEM.com/dataset/1431e721-1e0f-46e0-a751-836d7c46b945) |
+| Canopy height (10 m) | [ETH Global Canopy Height 2020](https://gee-community-catalog.org/projects/canopy/) |
+| Canopy height (1 m) | [High Resolution Canopy Height Maps (CHM). Source imagery for CHM © 2016 Maxar. Accessed 02 12 2025.](https://gee-community-catalog.org/projects/meta_trees/) |
 | NDVI | MODIS MOD13Q1 (250 m) and Sentinel-2 (10 m) |
 | Population | [WorldPop](https://www.worldpop.org/) constrained 100 m |
-| Admin boundaries | [DIVA-GIS](https://diva-gis.org/gdata) |
+| Admin boundaries | [OCHA](https://data.humdata.org/dataset/cod-ab-mdg) |
 
 ## License
 
@@ -103,7 +99,7 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 If you use this work, please cite the thesis:
 
-> Boehmer, A. (2025). *Risk of Tree Falling Index for Madagascar's road network during tropical cyclones.* Master's thesis, University of Göttingen.
+> Boehmer, V. (2026). *Risk of Tree Falling Index for Madagascar's road network during tropical cyclones.* Master's thesis, Heidelberg University.
 
 The full thesis is available for download: [thesis PDF](https://heibox.uni-heidelberg.de/f/56ee9f61270b45bbbe92/?dl=1).
 
