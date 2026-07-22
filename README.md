@@ -86,7 +86,7 @@ All input indicators are normalised to [0, 1] before combination. A road segment
 | Warehouse locations | CRM Madagascar |
 | Cyclone tracks | [IBTrACS](https://www.ncei.noaa.gov/products/international-best-track-archive) v04r01 |
 | Canopy height (10 m) | [ETH Global Canopy Height 2020](https://gee-community-catalog.org/projects/canopy/) |
-| Canopy height (1 m) | [High Resolution Canopy Height Maps (CHM). Source imagery for CHM © 2016 Maxar. Accessed 02 12 2025.](https://gee-community-catalog.org/projects/meta_trees/) |
+| Canopy height (1 m) | [High Resolution Canopy Height Maps (CHM)](https://gee-community-catalog.org/projects/meta_trees/) |
 | NDVI | MODIS MOD13Q1 (250 m) and Sentinel-2 (10 m) |
 | Population | [WorldPop](https://www.worldpop.org/) constrained 100 m |
 | Admin boundaries | [OCHA](https://data.humdata.org/dataset/cod-ab-mdg) |
