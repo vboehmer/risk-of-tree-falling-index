@@ -13,10 +13,10 @@ import math
 # Authenticate with Earth Engine (only needed once per machine).
 # If running locally, call:  earthengine authenticate
 try:
-    ee.Initialize(project="ee-aa-automatization")
+    ee.Initialize(project="aa-automatization")
 except Exception:
     ee.Authenticate()
-    ee.Initialize(project="ee-aa-automatization")
+    ee.Initialize(project="aa-automatization")
 results_file = "processed_chunks.pkl"
 chunk_size = 50
 buffer_m = 10  # max buffer distance (m)
