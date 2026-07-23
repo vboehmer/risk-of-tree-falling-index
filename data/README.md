@@ -7,7 +7,7 @@ All large files are **git-ignored** — you must download or generate them local
 
 | File | Source | Description |
 |------|--------|-------------|
-| `mdg_admin2.shp` (+`.dbf`, `.prj`, `.shx`) | [DIVA-GIS](https://diva-gis.org/gdata) — Madagascar > Admin2 | Administrative boundaries (used for bounding box) |
+| `mdg_admin2.shp` | [OCHA](https://data.humdata.org/dataset/cod-ab-mdg)  — Madagascar > Admin2 | Administrative boundaries (used for bounding box) |
 | `20240108_MAD_CRM_Warehouses_updated.gpkg` | CRM Madagascar (Comité de Recherche de Madagascar) | Health commodity warehouse locations |
 | `IBTrACS.since1980.list.v04r01.lines.shp` | [IBTrACS](https://www.ncei.noaa.gov/products/international-best-track-archive) — v04r01, Global, Lines | Tropical cyclone track segments since 1980 |
 | `mdg_pop_2025_CN_100m_R2025A_v1.tif` | [WorldPop](https://www.worldpop.org/) — Madagascar, constrained, 100 m | Population count (2025) |
@@ -18,7 +18,7 @@ All large files are **git-ignored** — you must download or generate them local
 - **IBTrACS**: Download the global "Lines" shapefile (v04r01) from the NCEI website and place all four files (`.shp`, `.shx`, `.dbf`, `.prj`) in `data/`.
 - **WorldPop**: Download the 2025 constrained population count raster for Madagascar (100 m resolution). If the 2025 version is not yet available, the 2020 version can be used with minor adjustments to `02_centrality_analysis.R`.
 - **NDVI**: Run `Scripts/08_ndvi_map.py` with a valid Earth Engine account to generate `ndvi_madagascar_2023_merged.tif`.
-- **CRM Warehouses**: Contact the Comité de Recherche de Madagascar or use the warehouse locations provided in the repository (small file, ~184 KB, included in git).
+- **CRM Warehouses**: Contact the Comité de Recherche de Madagascar.
 
 ## Generated Intermediate / Output Files
 
