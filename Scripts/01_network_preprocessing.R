@@ -191,7 +191,7 @@ st_write(cleaned_mdg_roads, "data/cleaned_mdg_roads.gpkg",
 # BASELINE ROAD DATASET (100 m segments) -------------------------------------
 
 edges <- st_as_sf(cleaned_mdg_roads)
-merged <- st_line_merge(st_union(edges$geom))
+merged <- st_line_merge(st_union(edges$geometry))
 lines <- st_cast(merged, "LINESTRING")
 
 segments_list <- lapply(seq_along(lines), function(i) {
